@@ -98,14 +98,6 @@ npm run preview
 
 ---
 
-## 🌙 Dark Mode
-
-* Toggle available in the header
-* System-friendly dark/light styling
-* Demonstrates **Tailwind class-based theming** skills
-
----
-
 ## 🧩 Portfolio Focus
 
 This project is ideal for showcasing:
@@ -116,7 +108,6 @@ This project is ideal for showcasing:
 * **Attention to detail:** Priority badges, hover effects, smooth interactions
 * **Code organization:** Component-based architecture with clear separation of concerns
 
-Consider adding screenshots or GIFs of the app in action to make your portfolio stand out.
 
 ---
 
